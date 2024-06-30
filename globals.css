@@ -1,0 +1,1574 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Cabin:500,400,700,600|Nunito:700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6675678990bdc8d3b230edef.6675678a90bdc8d3b230edf2.4QMX3ly.hcp.png");
+
+@font-face {
+  font-family: "SF Compact Display-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/SF-Compact-Display-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Text-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/SF-Pro-Text-Bold.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.auto-animated div {
+  --z-index: -1;
+  opacity: 0;
+  position: absolute;
+}
+
+.auto-animated input {
+  --z-index: -1;
+  opacity: 0;
+  position: absolute;
+}
+
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+  opacity: 1;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.time {
+  letter-spacing: -0.40px;
+  line-height: normal;
+  margin-bottom: 2.2px;
+  min-height: 20px;
+  text-align: center;
+  width: 54px;
+}
+
+.dynamic-island {
+  background-color: var(--black);
+  border-radius: 18px;
+  height: 37px;
+  margin-left: 35px;
+  width: 125px;
+}
+
+.status-pro {
+  align-items: center;
+  display: inline-flex;
+  gap: 7.33px;
+  margin-bottom: 0.01px;
+  margin-left: 23px;
+  position: relative;
+}
+
+.cellular {
+  height: 12.33px;
+  position: relative;
+  width: 19.33px;
+}
+
+.wifi {
+  height: 12.33px;
+  position: relative;
+  width: 17px;
+}
+
+.battery-percentage {
+  height: 13.67px;
+  position: relative;
+  width: 27.33px;
+}
+
+.menu-burger {
+  height: 9px;
+  margin-bottom: 1.33px;
+  width: 24px;
+}
+
+.eco-chef-1 {
+  height: 19px;
+  width: 82px;
+}
+
+.group-90 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1291px;
+  left: 1px;
+  min-height: 1811px;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.rectangle-201 {
+  height: 422px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.rectangle-202 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 8px;
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.bienvenue-sur {
+  color: var(--primary);
+  font-weight: 400;
+  left: 57px;
+  line-height: 19.9px;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 239px;
+}
+
+.next {
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.eco-chef-transforme-v {
+  color: var(--white);
+  font-weight: 400;
+  left: 21px;
+  line-height: 29.9px;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+}
+
+.avec-nous-rduisez {
+  color: var(--white);
+  font-weight: 400;
+  left: 31px;
+  line-height: 19.9px;
+  position: absolute;
+  text-align: center;
+  top: 170px;
+  width: 292px;
+}
+
+.pourquoi-nous-choisir {
+  left: 84px;
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.tmoignages {
+  left: 125px;
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 1102px;
+  white-space: nowrap;
+}
+
+.frame-71::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-71 {
+  gap: 14px;
+  height: 529px;
+  left: 0;
+  top: 542px;
+  width: 354px;
+}
+
+.group-20-1 {
+  height: 110px;
+  margin-right: 3.0px;
+  margin-top: 4px;
+  object-fit: cover;
+  width: 113px;
+}
+
+.rduction-du-gaspillage-alimentaire {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 16.0px;
+  margin-top: 19px;
+  min-height: 19px;
+  min-width: 246px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.apprends-utiliser {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  margin-top: 7px;
+  min-height: 57px;
+  text-align: center;
+  width: 352px;
+}
+
+.group-18-1 {
+  height: 145px;
+  margin-right: 4.0px;
+  object-fit: cover;
+  width: 142px;
+}
+
+.communaut-engage {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 18.0px;
+  margin-top: 6px;
+  min-height: 19px;
+  min-width: 156px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.rejoins-une-communau {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  margin-top: 7px;
+  min-height: 57px;
+  text-align: center;
+  width: 352px;
+}
+
+.group-24-1 {
+  height: 120px;
+  margin-right: 13.0px;
+  object-fit: cover;
+  width: 151px;
+}
+
+.ducation-et-sensibilisation {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 16.0px;
+  margin-top: 6px;
+  min-height: 19px;
+  min-width: 188px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.apprends-des-pratiqu {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  margin-top: 19px;
+  min-height: 57px;
+  text-align: center;
+  width: 352px;
+}
+
+.overlap-group-1 {
+  height: 144px;
+  margin-right: 13.0px;
+  position: relative;
+  width: 155px;
+}
+
+.conomies-financires {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  white-space: nowrap;
+}
+
+.group-6-1-1 {
+  height: 126px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.rduis-tes-dpenses {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  min-height: 38px;
+  text-align: center;
+  width: 352px;
+}
+
+.frame-72::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-72 {
+  gap: 8px;
+  height: 330px;
+  left: 1px;
+  top: 1138px;
+  width: 352px;
+}
+
+.avis {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 157px;
+  padding: 10px 11px;
+  width: 352px;
+}
+
+.rectangle-212 {
+  align-self: flex-end;
+  height: 49px;
+  width: 49px;
+}
+
+.name {
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  margin-left: 1px;
+  min-width: 38px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.eco-chef-est-parfait {
+  align-self: flex-end;
+  letter-spacing: 0.24px;
+  line-height: 17.4px;
+  min-height: 71px;
+  width: 328px;
+}
+
+.rectangle-212-1 {
+  align-self: flex-end;
+  height: 49px;
+  object-fit: cover;
+  width: 49px;
+}
+
+.marc {
+  margin-left: 1px;
+  min-width: 38px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 35px;
+  width: 61px;
+}
+
+.marc-1 {
+  min-width: 46px;
+}
+
+.group-91-1 {
+  height: 9px;
+  margin-left: 3px;
+  width: 58px;
+}
+
+.line-9 {
+  left: 149px;
+  top: 1091px;
+}
+
+.line-10 {
+  left: 150px;
+  top: 503px;
+}
+
+.a-toi-de-jouer {
+  left: 116px;
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 1515px;
+  white-space: nowrap;
+}
+
+.line-11 {
+  left: 147px;
+  top: 1511px;
+}
+
+.deviens-un-hros-de {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 1550px;
+  width: 352px;
+}
+
+.hey-toi-fais-un-ge {
+  left: 3px;
+  letter-spacing: 0.24px;
+  line-height: 19.9px;
+  position: absolute;
+  top: 1607px;
+  width: 352px;
+}
+
+.overlap-group6 {
+  height: 548px;
+  margin-top: 40px;
+  position: relative;
+  width: 393px;
+  z-index: 2;
+}
+
+.copy-right-2024 {
+  left: 153px;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: absolute;
+  top: 500px;
+  white-space: nowrap;
+}
+
+.copy-right-2024-1 {
+  left: 153px;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: absolute;
+  top: 515px;
+  white-space: nowrap;
+}
+
+.group-92 {
+  align-items: flex-start;
+  background-color: var(--x2ndd);
+  display: flex;
+  gap: 100px;
+  height: 548px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 393px;
+  padding: 27px 4px;
+  position: absolute;
+  top: 0;
+}
+
+.group-78 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 95px;
+  width: 97px;
+}
+
+.recettes {
+  letter-spacing: 0.25px;
+  line-height: 18.7px;
+  min-height: 19px;
+  min-width: 57px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index-recettes {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 87px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.nol {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 29px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.pques {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 44px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.chandeleur {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 71px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group-80 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 74px;
+  width: 60px;
+}
+
+.afrique {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 45px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.asie {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 26px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.espagne {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 52px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.italie {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 30px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group-82 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 74px;
+  width: 94px;
+}
+
+.moins-cher {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 67px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.mince-alors {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 77px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.petit-djeuner {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 86px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.vgtarien {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 66px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 74px;
+  width: 103px;
+}
+
+.group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  min-height: 410px;
+  width: 166px;
+}
+
+.group-79 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 95px;
+  width: 166px;
+}
+
+.recette-par-thmatique {
+  letter-spacing: 0.25px;
+  line-height: 18.7px;
+  min-height: 19px;
+  min-width: 156px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.automne {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 57px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.printemps {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 63px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.hiver {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 33px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.t {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 20px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group-81 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 74px;
+  width: 154px;
+}
+
+.facile-et-rapide {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.je-dbute {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.bb {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.cuisine-pour-les-enfants {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apro-dnatoire-1 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.pte {
+  margin-left: 1px;
+}
+
+.gteau-1 {
+  margin-left: 3px;
+}
+
+.overlap-group-2 {
+  height: 29px;
+  position: relative;
+  width: 109px;
+}
+
+.place {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 18.7px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.questions-rponses {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.marc-2 {
+  letter-spacing: 0.24px;
+  line-height: 22.4px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pte-1 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.rectangle-193 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: #ebe8e8;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.logo {
+  height: 73px;
+  left: 19px;
+  position: absolute;
+  top: 1px;
+  width: 99px;
+}
+
+.menu {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 730px;
+  padding: 8px;
+  position: absolute;
+  top: 24px;
+}
+
+.historiques {
+  letter-spacing: 0;
+  line-height: 19.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 1030px;
+  padding: 8px;
+  position: absolute;
+  top: 24px;
+}
+
+.ellipse-32 {
+  height: 53px;
+  left: 1343px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 53px;
+}
+
+.group-112 {
+  height: 640px;
+  margin-right: 3.0px;
+  margin-top: 15px;
+  width: 1397px;
+}
+
+.group-104 {
+  height: 546px;
+  width: 697px;
+}
+
+.group-18-3 {
+  height: 373px;
+  object-fit: cover;
+  width: 364px;
+}
+
+.group-24-3 {
+  height: 278px;
+  object-fit: cover;
+  width: 350px;
+}
+
+.overlap-group6-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-106.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 546px;
+  justify-content: flex-end;
+  min-width: 698px;
+  padding: 64px 172px;
+}
+
+.group-6-1-3 {
+  height: 291px;
+  object-fit: cover;
+  width: 316px;
+}
+
+.rectangle-22 {
+  height: 162px;
+  margin-right: 3.0px;
+  width: 162px;
+}
+
+.group-1 {
+  height: 12px;
+  margin-right: 3.0px;
+  margin-top: 5px;
+  width: 76px;
+}
+
+.eco-chef {
+  align-self: flex-start;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 19.9px;
+  margin-top: 32px;
+  min-height: 71px;
+  text-align: center;
+  width: 377px;
+}
+
+.footer-d-esk {
+  align-items: center;
+  background-color: var(--x2ndd);
+  display: flex;
+  height: 145px;
+  justify-content: flex-end;
+  margin-top: 70px;
+  min-width: 1440px;
+  padding: 0 19px;
+}
+
+.group-78-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 93px;
+  width: 85px;
+}
+
+.group-79-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 114px;
+  min-height: 93px;
+  width: 156px;
+}
+
+.group-80-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 114px;
+  margin-top: 1.0px;
+  min-height: 72px;
+  width: 53px;
+}
+
+.group-81-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 116px;
+  margin-top: 1.0px;
+  min-height: 72px;
+  width: 134px;
+}
+
+.group-82-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 116px;
+  margin-top: 1.0px;
+  min-height: 72px;
+  width: 82px;
+}
+
+.group-83 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 116px;
+  margin-top: 1.0px;
+  min-height: 72px;
+  width: 90px;
+}
+
+.rectangle-167 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 834px;
+}
+
+.menu-burger-1 {
+  height: 14px;
+  left: 41px;
+  position: absolute;
+  top: 114px;
+  width: 50px;
+}
+
+.logo2 {
+  height: 40px;
+  left: 330px;
+  position: absolute;
+  top: 96px;
+  width: 173px;
+}
+
+.cellular-1 {
+  height: 12.33px;
+  position: relative;
+  width: 19.33px;
+}
+
+.wifi-1 {
+  height: 12.33px;
+  position: relative;
+  width: 17px;
+}
+
+.battery-percentage-1 {
+  height: 13.67px;
+  position: relative;
+  width: 27.33px;
+}
+
+.rectangle-202-1 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 8px;
+  height: 423px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 792px;
+}
+
+.eco-chef-transforme-v-1 {
+  color: var(--white);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 49.8px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 792px;
+}
+
+.avec-nous-rduisez-1 {
+  color: var(--white);
+  font-weight: 400;
+  left: 122px;
+  line-height: 29.9px;
+  position: absolute;
+  text-align: center;
+  top: 187px;
+  width: 549px;
+}
+
+.bienvenue-sur-1 {
+  color: var(--primary);
+  font-weight: 400;
+  left: 278px;
+  line-height: 29.9px;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 239px;
+}
+
+.frame-73::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.group-20-2 {
+  height: 354px;
+  margin-right: 2.0px;
+  margin-top: 2px;
+  object-fit: cover;
+  width: 361px;
+}
+
+.rduction-du-gaspillage-alimentaire-1 {
+  letter-spacing: 0;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 26px;
+  min-height: 30px;
+  min-width: 364px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.apprends-utiliser-1 {
+  align-self: flex-start;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  margin-top: 12px;
+  min-height: 90px;
+  text-align: center;
+  width: 660px;
+}
+
+.communau-container {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--quill-gray);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 0;
+  min-height: 580px;
+  padding: 13px 66px;
+  position: absolute;
+  top: 0;
+  width: 793px;
+}
+
+.communaut-engage-1 {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 397px;
+  min-height: 29px;
+  min-width: 234px;
+  text-align: center;
+}
+
+.rejoins-une-communau-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  min-height: 120px;
+  text-align: center;
+  width: 660px;
+}
+
+.group-18-2 {
+  height: 418px;
+  left: 193px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 408px;
+}
+
+.ducation-et-sensibilisation-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 29.9px;
+  margin-top: 352px;
+  min-height: 30px;
+  min-width: 279px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.apprends-des-pratiqu-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  min-height: 60px;
+  text-align: center;
+  width: 660px;
+}
+
+.group-24-2 {
+  height: 343px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 432px;
+}
+
+.conomies-financires-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 352px;
+  min-height: 30px;
+  min-width: 230px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.rduis-tes-dpenses-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  min-height: 60px;
+  text-align: center;
+  width: 660px;
+}
+
+.group-6-1-2 {
+  height: 327px;
+  left: 219px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 355px;
+}
+
+.frame-74 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 24px;
+  height: 1026px;
+  margin-bottom: -326px;
+  width: 794px;
+}
+
+.rectangle-217 {
+  height: 137px;
+  width: 137px;
+}
+
+.eco-chef-est {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  min-height: 71px;
+  width: 690px;
+}
+
+.eco-chef-a-rvolution {
+  letter-spacing: 0.24px;
+  line-height: 17.4px;
+  min-height: 71px;
+  width: 690px;
+}
+
+.group-101 {
+  align-items: flex-start;
+  display: flex;
+  height: 326px;
+  min-width: 798px;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--celeste);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 123px;
+  min-height: 326px;
+  padding: 41px 39px;
+  width: 794px;
+}
+
+.group-91-3 {
+  margin-left: 31px;
+  margin-top: -6372px;
+}
+
+.overlap-group10 {
+  height: 79px;
+  margin-left: 1px;
+  position: relative;
+  width: 186px;
+}
+
+.overlap-group13 {
+  height: 79px;
+  margin-left: 1px;
+  position: relative;
+  width: 120px;
+}
+
+.overlap-group8 {
+  height: 100px;
+  position: relative;
+  width: 206px;
+}
+
+.overlap-group9 {
+  height: 79px;
+  margin-left: 1px;
+  position: relative;
+  width: 66px;
+}
+
+.overlap-group12 {
+  height: 79px;
+  position: relative;
+  width: 120px;
+}
+
+.rduire-le-gaspillage-alimentaire {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 19.9px;
+  margin-left: 18.0px;
+  min-height: 20px;
+  text-align: center;
+  width: 353px;
+  z-index: 5;
+}
+
+.text {
+  color: var(--black);
+  font-weight: 400;
+  left: 81px;
+  line-height: 19.9px;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  white-space: nowrap;
+}
+
+.bottom-standing-shorts {
+  align-items: flex-end;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 125px;
+  padding: 0 25.4px;
+  position: absolute;
+  top: 105px;
+}
+
+.left-shoe {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 25px;
+}
+
+.right-shoe {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 83px;
+  width: 25px;
+}
+
+.head-front-long {
+  align-items: flex-end;
+  display: flex;
+  height: 43px;
+  justify-content: flex-end;
+  left: 34px;
+  min-width: 57px;
+  padding: 0.0px 14.6px;
+  position: absolute;
+  top: 0;
+}
+
+.hair-back {
+  height: 27px;
+  left: 6px;
+  width: 21px;
+}
+
+.head {
+  background-image: url(../img/head-1.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 7px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.hair-front {
+  height: 26px;
+  left: 0;
+  width: 23px;
+}
+
+.body-pointing-forward {
+  align-items: flex-start;
+  display: flex;
+  height: 89px;
+  justify-content: flex-end;
+  left: 1px;
+  min-width: 121px;
+  position: absolute;
+  top: 42px;
+}
+
+.skin {
+  height: 32px;
+  left: 39px;
+  position: absolute;
+  top: 3px;
+  width: 46px;
+}
+
+.sleeve {
+  height: 17px;
+  left: 29px;
+  position: absolute;
+  top: 12px;
+  width: 27px;
+}
+
+.clothes {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.x1-2-1 {
+  height: 185px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.je-cre-des-recettes {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 19.9px;
+  margin-top: 9px;
+  min-height: 100px;
+  text-align: center;
+  width: 293px;
+  z-index: 4;
+}
+
+.search-bottom {
+  background-color: var(--black-3);
+  border-radius: 12px;
+  height: 44px;
+  position: relative;
+  width: 349px;
+}
+
+.a-a {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 0.7px;
+  width: 19px;
+}
+
+.domain {
+  align-items: center;
+  align-self: flex-end;
+  display: inline-flex;
+  gap: 4px;
+  margin-left: 88px;
+  position: relative;
+}
+
+.domain-1 {
+  letter-spacing: -0.45px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reload {
+  height: 18px;
+  margin-left: 94px;
+  width: 15px;
+}
+
+.space {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.toolbar {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  width: 100%;
+}
+
+.home-bar-pro {
+  height: 34px;
+  position: relative;
+  width: 393px;
+}
+
+.home-indicator {
+  background-color: var(--black);
+  border-radius: 100px;
+  height: 5px;
+  left: 127px;
+  position: relative;
+  top: 20px;
+  width: 139px;
+}
+
+.hair {
+  position: absolute;
+  top: 0;
+}

@@ -1,0 +1,1508 @@
+/* screen - landigpage-desk */
+
+.landigpage-desk {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3191px;
+  width: 1440px;
+}
+
+.landigpage-desk .menu-deskk {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 1px;
+  min-width: 1440px;
+}
+
+.landigpage-desk .overlap-group1-1 {
+  height: 74px;
+  position: relative;
+  width: 1440px;
+}
+
+.landigpage-desk .line-12 {
+  margin-top: 52px;
+}
+
+.landigpage-desk .title {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 1.0px;
+  margin-top: 6px;
+  min-height: 50px;
+  min-width: 393px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  margin-left: 1.0px;
+  margin-top: 61px;
+  min-width: 1407px;
+}
+
+.landigpage-desk .overlap-group5-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-105.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 546px;
+  min-width: 698px;
+  padding: 11px 138px;
+}
+
+.landigpage-desk .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  margin-top: 7px;
+  min-width: 1408px;
+}
+
+.landigpage-desk .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(../img/group-105-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 546px;
+  justify-content: flex-end;
+  min-width: 698px;
+  padding: 64px 159px;
+}
+
+.landigpage-desk .line-13 {
+  margin-left: 20.0px;
+  margin-top: 44px;
+}
+
+.landigpage-desk .tmoignages-1 {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 19.0px;
+  margin-top: 3px;
+  min-height: 50px;
+  min-width: 225px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 438px;
+  margin-left: 5.0px;
+  margin-top: 61px;
+  min-width: 1403px;
+}
+
+.landigpage-desk .overlap-group-3 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 438px;
+  padding: 51px 37px;
+  width: 453px;
+}
+
+.landigpage-desk .name-1 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 2.0px;
+  margin-top: 13px;
+  min-height: 30px;
+  min-width: 51px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .chlo {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 2.0px;
+  margin-top: 13px;
+  min-height: 30px;
+  min-width: 61px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .line-14 {
+  margin-left: 20.0px;
+  margin-top: 52px;
+}
+
+.landigpage-desk .a-toi-de-jouer-1 {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 19.0px;
+  margin-top: 5px;
+  min-height: 50px;
+  min-width: 245px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .deviens-un-hros-de-1 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-left: 1.0px;
+  margin-top: 60px;
+  min-height: 30px;
+  text-align: center;
+  width: 581px;
+}
+
+.landigpage-desk .hey-toi-fais-un-ge-1 {
+  letter-spacing: 0;
+  line-height: 19.9px;
+  margin-top: 21px;
+  min-height: 60px;
+  text-align: center;
+  width: 700px;
+}
+
+.landigpage-desk .cta-tab {
+  align-items: flex-start;
+  margin-left: 15.0px;
+  margin-top: 41px;
+}
+
+.landigpage-desk .cta-3 {
+  align-items: center;
+  background-color: var(--x1st);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 50px 56.5px;
+}
+
+.landigpage-desk .next-1 {
+  color: var(--white);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  margin-bottom: -30.50px;
+  margin-top: -31.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landigpage-desk .recettes-1 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .index-recettes-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 75px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .nol-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 25px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .pques-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 38px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .chandeleur-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 61px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .recette-par-thmatique-1 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 146px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landigpage-desk .automne-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 50px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .printemps-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 55px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .hiver-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 28px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .t-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 18px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .afrique-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 39px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .asie-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 22px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .espagne-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 45px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .italie-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 26px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .facile-et-rapide-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 80px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .je-dbute-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 50px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .bb-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 27px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .cuisine-pour-les-enfants-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 126px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .moins-cher-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 58px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .mince-alors-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 66px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .petit-djeuner-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 74px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .vgtarien-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 57px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .apro-dnatoire-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 82px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .pte-crpes-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 70px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .gteau-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 38px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .pte-sable-1 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 61px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landigpage-desk .overlap-group-4 {
+  height: 29px;
+  margin-bottom: 58.0px;
+  margin-left: 116px;
+  position: relative;
+  width: 109px;
+}
+
+.landigpage-desk .place-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landigpage-desk .questions-rponses-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.landigpage-desk .cta {
+  display: inline-flex;
+  position: relative;
+}
+
+.landigpage-desk .line {
+  height: 1px;
+  object-fit: cover;
+  width: 200px;
+}
+/* screen - landingpagemobile */
+
+.landingpagemobile {
+  align-items: center;
+  background-color: var(--ceramic);
+  display: flex;
+  flex-direction: column;
+  height: 2510px;
+  width: 393px;
+}
+
+.landingpagemobile .header {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: auto;
+  justify-content: flex-start;
+  left: 0;
+  min-height: 95px;
+  position: fixed;
+  top: 0;
+  width: 393px;
+  z-index: 3;
+}
+
+.landingpagemobile .status-bar-pro {
+  align-items: center;
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  min-width: 393px;
+  padding: 0 32.7px;
+}
+
+.landingpagemobile .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 112px;
+  margin-left: 19px;
+  min-width: 218px;
+}
+
+.landingpagemobile .overlap-group5 {
+  height: 1811px;
+  margin-left: 2.0px;
+  margin-top: 111px;
+  position: relative;
+  width: 357px;
+  z-index: 1;
+}
+
+.landingpagemobile .overlap-group {
+  border-radius: 8px;
+  height: 470px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 354px;
+}
+
+.landingpagemobile .cta {
+  background-color: var(--x1st);
+  box-shadow: 0px 4px 4px #0000001a;
+  left: 62px;
+  position: absolute;
+  top: 290px;
+}
+
+.landingpagemobile .cta-1 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--x1st);
+  left: 62px;
+  position: absolute;
+  top: 374px;
+}
+
+.landingpagemobile .cta-2 {
+  background-color: var(--x1st);
+  box-shadow: 0px 4px 4px #0000001a;
+  margin-right: 2.0px;
+  position: relative;
+}
+
+.landingpagemobile .overlap-group4 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 19px 0;
+  width: 354px;
+}
+
+.landingpagemobile .overlap-group1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 1px 0;
+  width: 354px;
+}
+
+.landingpagemobile .overlap-group3 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 14px 0;
+  width: 354px;
+}
+
+.landingpagemobile .overlap-group2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 254px;
+  padding: 16px 0;
+  width: 354px;
+}
+
+.landingpagemobile .flex-row {
+  gap: 12px;
+  height: 50px;
+  margin-left: 3px;
+  min-width: 119px;
+}
+
+.landingpagemobile .flex-col {
+  flex-direction: column;
+  gap: 4px;
+  min-height: 35px;
+  width: 58px;
+}
+
+.landingpagemobile .group-91 {
+  height: 9px;
+  width: 58px;
+}
+
+.landingpagemobile .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 50px;
+  margin-left: 3px;
+  min-width: 119px;
+}
+
+.landingpagemobile .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  min-height: 455px;
+  width: 103px;
+}
+
+.landingpagemobile .apro-dnatoire {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 95px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landingpagemobile .pte-crpes {
+  min-width: 81px;
+  text-align: center;
+}
+
+.landingpagemobile .gteau {
+  min-width: 44px;
+  text-align: center;
+}
+
+.landingpagemobile .pte-sable {
+  min-width: 70px;
+  text-align: center;
+}
+
+.landingpagemobile .cta-3 {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 50px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 7px 26px;
+  width: 234px;
+}
+
+.landingpagemobile .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+}
+
+.landingpagemobile .gteau-2 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landingpagemobile .line {
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 55px;
+}
+/* screen - landingpagetab-all-breakpoints */
+
+.landingpagetab-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3912px;
+  width: 834px;
+}
+
+.landingpagetab-all-breakpoints .header-tab {
+  align-items: flex-end;
+  display: flex;
+  height: 155px;
+  left: 0;
+  min-width: 834px;
+  position: fixed;
+  top: 0;
+  z-index: 15;
+}
+
+.landingpagetab-all-breakpoints .overlap-group15 {
+  height: 155px;
+  margin-bottom: 0;
+  position: relative;
+  width: 834px;
+}
+
+.landingpagetab-all-breakpoints .status-bar-pro-1 {
+  align-items: center;
+  display: flex;
+  height: 96px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 834px;
+  padding: 11px 32.7px;
+  position: absolute;
+  top: 0;
+}
+
+.landingpagetab-all-breakpoints .time-1 {
+  letter-spacing: -0.40px;
+  line-height: normal;
+  margin-bottom: 3.13px;
+  min-height: 20px;
+  text-align: center;
+  width: 54px;
+}
+
+.landingpagetab-all-breakpoints .dynamic-island-1 {
+  align-self: flex-start;
+  background-color: var(--black);
+  border-radius: 18px;
+  height: 37px;
+  margin-left: 255px;
+  width: 125px;
+}
+
+.landingpagetab-all-breakpoints .status-pro-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 7.33px;
+  margin-bottom: 0.93px;
+  margin-left: 244px;
+  position: relative;
+}
+
+.landingpagetab-all-breakpoints .overlap-group16 {
+  background-image: url(../img/rectangle-214.png);
+  background-size: 100% 100%;
+  height: 423px;
+  margin-top: 207px;
+  position: relative;
+  width: 794px;
+  z-index: 1;
+}
+
+.landingpagetab-all-breakpoints .cta-tab-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 96px;
+  position: absolute;
+  top: 312px;
+}
+
+.landingpagetab-all-breakpoints .cta-5 {
+  background-color: var(--x1st);
+  padding: 40px 90px;
+}
+
+.landingpagetab-all-breakpoints .next-2 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 29.9px;
+  margin-bottom: -24.50px;
+  margin-top: -25.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landingpagetab-all-breakpoints .cta-tab-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  left: 396px;
+  position: absolute;
+  top: 312px;
+  width: 276px;
+}
+
+.landingpagetab-all-breakpoints .cta-tab-4 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--x1st);
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.landingpagetab-all-breakpoints .cta-6 {
+  padding: 40px 62px;
+}
+
+.landingpagetab-all-breakpoints .line-12-1 {
+  height: 1px;
+  margin-top: 41px;
+  object-fit: cover;
+  width: 142px;
+  z-index: 7;
+}
+
+.landingpagetab-all-breakpoints .pourquoi-nous-choisir-1 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-top: 9px;
+  min-height: 40px;
+  min-width: 314px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.landingpagetab-all-breakpoints .frame-73 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 24px;
+  height: 1198px;
+  margin-right: 1.0px;
+  margin-top: 35px;
+  overflow-x: scroll;
+  width: 795px;
+  z-index: 6;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-7 {
+  align-items: center;
+  border-color: var(--quill-gray);
+  box-shadow: 0px 4px 4px #0000001a;
+  flex: 0 0 auto;
+  min-height: 580px;
+  padding: 33px 66px;
+  width: 793px;
+}
+
+.landingpagetab-all-breakpoints .group-container-4 {
+  margin-left: 2px;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-5 {
+  align-items: flex-start;
+  border-color: var(--quill-gray);
+  box-shadow: 0px 4px 4px #0000001a;
+  gap: 12px;
+  left: 0;
+  min-height: 580px;
+  padding: 63px 66px;
+  position: absolute;
+  top: 0;
+  width: 793px;
+}
+
+.landingpagetab-all-breakpoints .line-13-1 {
+  height: 1px;
+  margin-left: 2.0px;
+  margin-top: 41px;
+  object-fit: cover;
+  width: 142px;
+  z-index: 8;
+}
+
+.landingpagetab-all-breakpoints .tmoignages-2 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 40px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 4;
+}
+
+.landingpagetab-all-breakpoints .frame-75 {
+  align-items: flex-end;
+  height: 700px;
+  margin-left: 2.0px;
+  margin-top: 43px;
+  width: 794px;
+  z-index: 10;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-6 {
+  align-items: flex-start;
+  border-color: var(--celeste);
+  gap: 25px;
+  min-height: 326px;
+  padding: 42px 39px;
+  width: 794px;
+}
+
+.landingpagetab-all-breakpoints .flex-row-3 {
+  gap: 31px;
+  margin-left: 1px;
+  min-width: 297px;
+}
+
+.landingpagetab-all-breakpoints .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 72px;
+  width: 129px;
+}
+
+.landingpagetab-all-breakpoints .name-2 {
+  letter-spacing: 0.24px;
+  line-height: 39.8px;
+  min-height: 40px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .chlo-1 {
+  align-self: center;
+  letter-spacing: 0.24px;
+  line-height: 39.8px;
+  margin-right: 299.0px;
+  min-height: 40px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .rectangle-217-1 {
+  height: 137px;
+  margin-left: 9812px;
+  margin-top: -6424px;
+  width: 137px;
+}
+
+.landingpagetab-all-breakpoints .line-14-1 {
+  height: 1px;
+  margin-right: 22.0px;
+  margin-top: 34px;
+  object-fit: cover;
+  width: 142px;
+  z-index: 9;
+}
+
+.landingpagetab-all-breakpoints .a-toi-de-jouer-2 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-right: 22.0px;
+  margin-top: 6px;
+  min-height: 40px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 5;
+}
+
+.landingpagetab-all-breakpoints .deviens-un-hros-de-2 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 34px;
+  min-height: 60px;
+  text-align: center;
+  width: 473px;
+  z-index: 11;
+}
+
+.landingpagetab-all-breakpoints .hey-toi-fais-un-ge-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-height: 120px;
+  width: 791px;
+  z-index: 12;
+}
+
+.landingpagetab-all-breakpoints .cta-tab-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  margin-right: 3.0px;
+  margin-top: 42px;
+  position: relative;
+  z-index: 2;
+}
+
+.landingpagetab-all-breakpoints .cta-4 {
+  background-color: var(--x1st);
+  padding: 40px 90px;
+}
+
+.landingpagetab-all-breakpoints .flex-row-4 {
+  background-color: var(--x2ndd);
+  height: 630px;
+  margin-top: 66px;
+  min-width: 834px;
+  padding: 67px 21px;
+  z-index: 13;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-container-2 {
+  align-self: flex-end;
+  min-height: 490px;
+  width: 187px;
+}
+
+.landingpagetab-all-breakpoints .overlap-group7-1 {
+  height: 100px;
+  position: relative;
+  width: 111px;
+}
+
+.landingpagetab-all-breakpoints .recettes-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .index-recettes-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .nol-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .pques-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .chandeleur-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .facile-et-rapide-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .je-dbute-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .bb-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .cuisine-pour-les-enfants-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .pte-sable-2 {
+  text-align: center;
+}
+
+.landingpagetab-all-breakpoints .gteau-3 {
+  text-align: center;
+}
+
+.landingpagetab-all-breakpoints .pte-crpes-2 {
+  text-align: center;
+}
+
+.landingpagetab-all-breakpoints .apro-dnatoire-3 {
+  text-align: center;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-container-3 {
+  margin-left: 139px;
+  margin-top: 6px;
+  min-height: 453px;
+  width: 206px;
+}
+
+.landingpagetab-all-breakpoints .recette-par-thmatique-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .automne-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .printemps-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .hiver-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .t-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .overlap-group11 {
+  height: 79px;
+  position: relative;
+  width: 110px;
+}
+
+.landingpagetab-all-breakpoints .moins-cher-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .mince-alors-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .petit-djeuner-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .vgtarien-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .overlap-group14 {
+  height: 42px;
+  position: relative;
+  width: 161px;
+}
+
+.landingpagetab-all-breakpoints .place-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .questions-rponses-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-container-4 {
+  margin-left: 118px;
+  margin-top: 31px;
+  min-height: 274px;
+  width: 120px;
+}
+
+.landingpagetab-all-breakpoints .afrique-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .asie-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .espagne-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .italie-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .copyright-2024 {
+  left: 375px;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: fixed;
+  text-align: center;
+  top: 3877px;
+  white-space: nowrap;
+  z-index: 14;
+}
+
+.landingpagetab-all-breakpoints .apro-dnatoire {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .cta {
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.landingpagetab-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.landingpagetab-all-breakpoints .frame {
+  display: flex;
+  overflow: hidden;
+}
+
+.landingpagetab-all-breakpoints .group-91 {
+  height: 20px;
+  width: 129px;
+}
+
+.landingpagetab-all-breakpoints .group-container {
+  border-radius: 8px;
+  flex: 0 0 auto;
+  height: 580px;
+  position: relative;
+  width: 793px;
+}
+
+.landingpagetab-all-breakpoints .gteau {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .overlap-group {
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.landingpagetab-all-breakpoints .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 116px;
+}
+
+.landingpagetab-all-breakpoints .pte-crpes {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landingpagetab-all-breakpoints .pte-sable {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+@media screen and (max-width: 833px) {
+  .screen.landigpage-desk { 
+    display: none;
+   }
+  .screen.landingpagetab-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1439px) {
+  .screen.landingpagemobile { 
+    display: none;
+   }
+  .screen.landigpage-desk { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.landingpagemobile { 
+    display: none;
+   }
+  .screen.landingpagetab-all-breakpoints { 
+    display: none;
+   }
+}

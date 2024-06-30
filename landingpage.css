@@ -1,0 +1,1700 @@
+/* screen - landing-page */
+
+.landing-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3912px;
+  width: 834px;
+}
+
+.landing-page .header-tab {
+  z-index: 1;
+}
+
+.landing-page .overlap-group-5 {
+  height: 155px;
+  margin-bottom: 0;
+  position: relative;
+  width: 834px;
+}
+
+.landing-page .status-bar-pro-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 624px;
+  height: 96px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 834px;
+  padding: 36.4px 32.7px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page .time-1 {
+  letter-spacing: -0.40px;
+  line-height: normal;
+  min-height: 20px;
+  text-align: center;
+  width: 54px;
+}
+
+.landing-page .status-pro-1 {
+  align-items: center;
+  align-self: center;
+  display: inline-flex;
+  gap: 7.33px;
+  margin-bottom: 0.93px;
+  position: relative;
+}
+
+.landing-page .header-1 {
+  background-color: transparent;
+  flex-direction: row;
+  gap: 285px;
+  height: 155px;
+  justify-content: flex-start;
+  left: 0;
+  padding: 16.8px 42.4px;
+  position: fixed;
+  top: 0;
+  width: auto;
+  z-index: 15;
+}
+
+.landing-page .menu-burger-2 {
+  height: 1px;
+  margin-bottom: 21.22px;
+  width: 1px;
+}
+
+.landing-page .eco-chef-1-1 {
+  height: 31px;
+  width: 174px;
+}
+
+.landing-page .overlap-group15 {
+  background-image: url(../img/rectangle-214.png);
+  background-size: 100% 100%;
+  height: 423px;
+  margin-top: 52px;
+  position: relative;
+  width: 794px;
+  z-index: 2;
+}
+
+.landing-page .cta-tab {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 96px;
+  position: absolute;
+  top: 312px;
+}
+
+.landing-page .cta-3 {
+  align-items: center;
+  background-color: var(--x1st);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 90px;
+  position: relative;
+}
+
+.landing-page .next-1 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 29.9px;
+  margin-bottom: -24.50px;
+  margin-top: -25.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .cta-tab-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  left: 396px;
+  position: absolute;
+  top: 312px;
+  width: 276px;
+}
+
+.landing-page .cta-tab-2 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--x1st);
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.landing-page .cta-4 {
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 62px;
+  position: relative;
+}
+
+.landing-page .line-12 {
+  margin-top: 41px;
+  z-index: 8;
+}
+
+.landing-page .pourquoi-nous-choisir-1 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-top: 9px;
+  min-height: 40px;
+  min-width: 314px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 4;
+}
+
+.landing-page .frame-73 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 24px;
+  height: 1198px;
+  margin-right: 1.0px;
+  margin-top: 35px;
+  overflow-x: scroll;
+  width: 795px;
+  z-index: 7;
+}
+
+.landing-page .overlap-group-6 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--quill-gray);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 580px;
+  padding: 33px 66px;
+  width: 793px;
+}
+
+.landing-page .group-container-3 {
+  margin-left: 2px;
+}
+
+.landing-page .overlap-group-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--quill-gray);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 580px;
+  padding: 63px 66px;
+  position: absolute;
+  top: 0;
+  width: 793px;
+}
+
+.landing-page .line-13 {
+  margin-left: 2.0px;
+  margin-top: 41px;
+  z-index: 9;
+}
+
+.landing-page .tmoignages-1 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 40px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 5;
+}
+
+.landing-page .frame-75 {
+  align-items: flex-end;
+  height: 700px;
+  margin-left: 2.0px;
+  margin-top: 43px;
+  width: 794px;
+  z-index: 11;
+}
+
+.landing-page .overlap-group-4 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--celeste);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-height: 326px;
+  padding: 42px 39px;
+  width: 794px;
+}
+
+.landing-page .flex-row-3 {
+  gap: 31px;
+  margin-left: 1px;
+  min-width: 297px;
+}
+
+.landing-page .flex-col-2 {
+  gap: 12px;
+  min-height: 72px;
+  width: 129px;
+}
+
+.landing-page .name-1 {
+  letter-spacing: 0.24px;
+  line-height: 39.8px;
+  min-height: 40px;
+  white-space: nowrap;
+}
+
+.landing-page .chlo {
+  align-self: center;
+  letter-spacing: 0.24px;
+  line-height: 39.8px;
+  margin-right: 299.0px;
+  min-height: 40px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.landing-page .rectangle-217-1 {
+  height: 137px;
+  margin-left: 596px;
+  margin-top: -6424px;
+  width: 137px;
+}
+
+.landing-page .line-14 {
+  margin-right: 22.0px;
+  margin-top: 34px;
+  z-index: 10;
+}
+
+.landing-page .a-toi-de-jouer-1 {
+  color: var(--x2nd);
+  font-weight: 500;
+  line-height: 39.8px;
+  margin-right: 22.0px;
+  margin-top: 6px;
+  min-height: 40px;
+  min-width: 196px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 6;
+}
+
+.landing-page .deviens-un-hros-de-1 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 34px;
+  min-height: 60px;
+  text-align: center;
+  width: 473px;
+  z-index: 12;
+}
+
+.landing-page .hey-toi-fais-un-ge-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 29.9px;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-height: 120px;
+  width: 791px;
+  z-index: 13;
+}
+
+.landing-page .cta-tab-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  margin-right: 3.0px;
+  margin-top: 42px;
+  position: relative;
+  z-index: 3;
+}
+
+.landing-page .cta-5 {
+  align-items: center;
+  background-color: var(--x1st);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 90px;
+  position: relative;
+}
+
+.landing-page .flex-row-4 {
+  background-color: var(--x2ndd);
+  height: 630px;
+  margin-top: 66px;
+  min-width: 834px;
+  padding: 20px 21px;
+  z-index: 14;
+}
+
+.landing-page .overlap-group-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 116px;
+  margin-top: 6.0px;
+  min-height: 490px;
+  width: 187px;
+}
+
+.landing-page .overlap-group7 {
+  height: 100px;
+  position: relative;
+  width: 111px;
+}
+
+.landing-page .recettes-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .index-recettes-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.landing-page .nol-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.landing-page .pques-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.landing-page .chandeleur-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.landing-page .facile-et-rapide-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .je-dbute-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landing-page .bb-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landing-page .cuisine-pour-les-enfants-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landing-page .pte-sable-1 {
+  text-align: center;
+}
+
+.landing-page .gteau-2 {
+  text-align: center;
+}
+
+.landing-page .pte-crpes-1 {
+  text-align: center;
+}
+
+.landing-page .apro-dnatoire-2 {
+  text-align: center;
+}
+
+.landing-page .flex-col-3 {
+  align-self: flex-end;
+  margin-left: 139px;
+  min-height: 537px;
+  width: 206px;
+}
+
+.landing-page .recette-par-thmatique-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .automne-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.landing-page .printemps-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.landing-page .hiver-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.landing-page .t-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-group11 {
+  height: 79px;
+  margin-top: 116px;
+  position: relative;
+  width: 110px;
+}
+
+.landing-page .moins-cher-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .mince-alors-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landing-page .petit-djeuner-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landing-page .vgtarien-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-group14 {
+  height: 42px;
+  margin-top: 116px;
+  position: relative;
+  width: 161px;
+}
+
+.landing-page .place-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 24.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .questions-rponses-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.landing-page .copyright-2024 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  margin-left: 28px;
+  margin-top: 69px;
+  min-height: 15px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 116px;
+  margin-left: 118px;
+  margin-top: 78px;
+  min-height: 274px;
+  width: 120px;
+}
+
+.landing-page .afrique-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .asie-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landing-page .espagne-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landing-page .italie-1 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.landing-page .apro-dnatoire {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.landing-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.landing-page .frame {
+  display: flex;
+  overflow: hidden;
+}
+
+.landing-page .group-91 {
+  height: 20px;
+  width: 129px;
+}
+
+.landing-page .group-container {
+  border-radius: 8px;
+  flex: 0 0 auto;
+  height: 580px;
+  position: relative;
+  width: 793px;
+}
+
+.landing-page .gteau {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.landing-page .header {
+  align-items: flex-end;
+  display: flex;
+  min-width: 834px;
+}
+
+.landing-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 142px;
+}
+
+.landing-page .pte-crpes {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.landing-page .pte-sable {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  position: absolute;
+  text-decoration: underline;
+  top: 57px;
+  white-space: nowrap;
+}
+/* screen - landingpage */
+
+.landingpage {
+  align-items: center;
+  background-color: var(--ceramic);
+  display: flex;
+  flex-direction: column;
+  height: 2510px;
+  width: 393px;
+}
+
+.landingpage .header {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: auto;
+  justify-content: flex-start;
+  left: 0;
+  min-height: 95px;
+  position: fixed;
+  top: 0;
+  width: 393px;
+  z-index: 3;
+}
+
+.landingpage .status-bar-pro {
+  align-items: center;
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  min-width: 393px;
+  padding: 0 32.7px;
+}
+
+.landingpage .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 112px;
+  margin-left: 19px;
+  min-width: 218px;
+}
+
+.landingpage .overlap-group5 {
+  height: 1811px;
+  margin-left: 2.0px;
+  margin-top: 111px;
+  position: relative;
+  width: 357px;
+  z-index: 1;
+}
+
+.landingpage .overlap-group {
+  border-radius: 8px;
+  height: 470px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 354px;
+}
+
+.landingpage .cta {
+  background-color: var(--x1st);
+  box-shadow: 0px 4px 4px #0000001a;
+  left: 62px;
+  position: absolute;
+  top: 290px;
+}
+
+.landingpage .cta-1 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--x1st);
+  left: 62px;
+  position: absolute;
+  top: 374px;
+}
+
+.landingpage .cta-2 {
+  background-color: var(--x1st);
+  box-shadow: 0px 4px 4px #0000001a;
+  margin-right: 2.0px;
+  position: relative;
+}
+
+.landingpage .overlap-group3 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 19px 0;
+  width: 354px;
+}
+
+.landingpage .overlap-group2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 1px 0;
+  width: 354px;
+}
+
+.landingpage .overlap-group4 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  padding: 14px 0;
+  width: 354px;
+}
+
+.landingpage .overlap-group1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 254px;
+  padding: 16px 0;
+  width: 354px;
+}
+
+.landingpage .flex-row {
+  gap: 12px;
+  height: 50px;
+  margin-left: 3px;
+  min-width: 119px;
+}
+
+.landingpage .flex-col {
+  flex-direction: column;
+  gap: 4px;
+  min-height: 35px;
+  width: 58px;
+}
+
+.landingpage .group-91 {
+  height: 9px;
+  width: 58px;
+}
+
+.landingpage .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 50px;
+  margin-left: 3px;
+  min-width: 119px;
+}
+
+.landingpage .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  min-height: 455px;
+  width: 103px;
+}
+
+.landingpage .apro-dnatoire {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 95px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landingpage .pte-crpes {
+  min-width: 81px;
+  text-align: center;
+}
+
+.landingpage .gteau {
+  min-width: 44px;
+  text-align: center;
+}
+
+.landingpage .pte-sable {
+  min-width: 70px;
+  text-align: center;
+}
+
+.landingpage .cta-3 {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 50px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 7px 26px;
+  width: 234px;
+}
+
+.landingpage .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+}
+
+.landingpage .gteau-2 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.landingpage .line {
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 55px;
+}
+/* screen - objectifs-2-all-breakpoints */
+
+.objectifs-2-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3269px;
+  width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .nav-bar-desk {
+  align-items: flex-start;
+  display: flex;
+  height: 79px;
+  min-width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .core-google-chrome-toolbar-light {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 79px;
+  width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .tabs-bar {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(223, 225, 229) 0.6%, rgb(223, 225, 229) 99.4%);
+  display: flex;
+  height: 42px;
+  margin-left: 0;
+  min-width: 1440px;
+  padding: 0 13px;
+}
+
+.objectifs-2-all-breakpoints .core-traffic-lights-catalina {
+  height: 12px;
+  margin-top: 2.0px;
+  width: 52px;
+}
+
+.objectifs-2-all-breakpoints .tab {
+  align-items: center;
+  align-self: flex-end;
+  background-image: url(../img/tab.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 7px;
+  height: 34px;
+  margin-left: 5px;
+  min-width: 256px;
+  padding: 0 19px;
+}
+
+.objectifs-2-all-breakpoints .favicon-replace-me {
+  background-image: url(../img/favicon--replace-me-@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 18px;
+}
+
+.objectifs-2-all-breakpoints .tab-title {
+  height: 20px;
+  width: 177px;
+}
+
+.objectifs-2-all-breakpoints .tab-close-icon {
+  height: 8px;
+  margin-top: 0.12px;
+  width: 8px;
+}
+
+.objectifs-2-all-breakpoints .new-tab-icon {
+  height: 12px;
+  margin-left: 8px;
+  margin-top: 8.0px;
+  width: 12px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group1-1 {
+  height: 37px;
+  position: relative;
+  width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .background {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 37px;
+  left: 0;
+  min-width: 1440px;
+  position: absolute;
+  top: 0;
+}
+
+.objectifs-2-all-breakpoints .separator {
+  background-color: #b5b5b5;
+  height: 1px;
+  margin-bottom: -0.5px;
+  width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .actions {
+  height: 13px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 78px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-8 {
+  align-items: center;
+  background-color: #f1f3f4;
+  border-radius: 14px;
+  display: flex;
+  gap: 12px;
+  height: 28px;
+  left: 108px;
+  min-width: 1288px;
+  padding: 0 14px;
+  position: absolute;
+  top: 4px;
+}
+
+.objectifs-2-all-breakpoints .secure-icon {
+  height: 10px;
+  margin-top: 0.5px;
+  width: 8px;
+}
+
+.objectifs-2-all-breakpoints .url {
+  color: transparent;
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1188px;
+}
+
+.objectifs-2-all-breakpoints .span0 {
+  color: #767676;
+}
+
+.objectifs-2-all-breakpoints .span1 {
+  color: #202124;
+}
+
+.objectifs-2-all-breakpoints .menu-icon {
+  height: 13px;
+  left: 1416px;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.objectifs-2-all-breakpoints .menu-deskk {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group2-2 {
+  height: 74px;
+  position: relative;
+  width: 1440px;
+}
+
+.objectifs-2-all-breakpoints .line-12-1 {
+  height: 1px;
+  margin-top: 52px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.objectifs-2-all-breakpoints .title {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 1.0px;
+  margin-top: 6px;
+  min-height: 50px;
+  min-width: 393px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  margin-left: 1.0px;
+  margin-top: 61px;
+  min-width: 1407px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group8-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-105.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 546px;
+  min-width: 698px;
+  padding: 11px 138px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-container-2 {
+  gap: 12px;
+  margin-top: 7px;
+  min-width: 1408px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group7-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-105-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 546px;
+  justify-content: flex-end;
+  min-width: 698px;
+  padding: 64px 159px;
+}
+
+.objectifs-2-all-breakpoints .line-13-1 {
+  height: 1px;
+  margin-left: 20.0px;
+  margin-top: 44px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.objectifs-2-all-breakpoints .tmoignages-2 {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 19.0px;
+  margin-top: 3px;
+  min-height: 50px;
+  min-width: 225px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-container-3 {
+  gap: 20px;
+  height: 438px;
+  margin-left: 5.0px;
+  margin-top: 61px;
+  min-width: 1403px;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-7 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 438px;
+  padding: 51px 37px;
+  width: 453px;
+}
+
+.objectifs-2-all-breakpoints .name-2 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 2.0px;
+  margin-top: 13px;
+  min-height: 30px;
+  min-width: 51px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .chlo-1 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-right: 2.0px;
+  margin-top: 13px;
+  min-height: 30px;
+  min-width: 61px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .line-14-1 {
+  height: 1px;
+  margin-left: 20.0px;
+  margin-top: 52px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.objectifs-2-all-breakpoints .a-toi-de-jouer-2 {
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 19.0px;
+  margin-top: 5px;
+  min-height: 50px;
+  min-width: 245px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .deviens-un-hros-de-2 {
+  letter-spacing: 0.24px;
+  line-height: 29.9px;
+  margin-left: 1.0px;
+  margin-top: 60px;
+  min-height: 30px;
+  text-align: center;
+  width: 581px;
+}
+
+.objectifs-2-all-breakpoints .hey-toi-fais-un-ge-2 {
+  letter-spacing: 0;
+  line-height: 19.9px;
+  margin-top: 21px;
+  min-height: 60px;
+  text-align: center;
+  width: 700px;
+}
+
+.objectifs-2-all-breakpoints .cta-tab-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  margin-left: 15.0px;
+  margin-top: 41px;
+  position: relative;
+}
+
+.objectifs-2-all-breakpoints .cta-6 {
+  align-items: center;
+  background-color: var(--x1st);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #0000001a;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 50px 56.5px;
+  position: relative;
+}
+
+.objectifs-2-all-breakpoints .next-2 {
+  color: var(--white);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  margin-bottom: -30.50px;
+  margin-top: -31.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.objectifs-2-all-breakpoints .recettes-2 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .index-recettes-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 75px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .nol-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 25px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .pques-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 38px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .chandeleur-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 61px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .recette-par-thmatique-2 {
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  min-width: 146px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .automne-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 50px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .printemps-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 55px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .hiver-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 28px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .t-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 18px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .afrique-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 39px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .asie-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 22px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .espagne-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 45px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .italie-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 26px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .facile-et-rapide-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 80px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .je-dbute-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 50px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .bb-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 27px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .cuisine-pour-les-enfants-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 126px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .moins-cher-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 58px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .mince-alors-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 66px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .petit-djeuner-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 74px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .vgtarien-2 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 57px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .apro-dnatoire-4 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 82px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .pte-crpes-3 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 70px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .gteau-4 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 38px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .pte-sable-3 {
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  min-height: 15px;
+  min-width: 61px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-9 {
+  height: 29px;
+  margin-bottom: 58.0px;
+  margin-left: 116px;
+  position: relative;
+  width: 109px;
+}
+
+.objectifs-2-all-breakpoints .place-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .questions-rponses-2 {
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 14.9px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.objectifs-2-all-breakpoints .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+}
+@media screen and (max-width: 833px) {
+  .screen.landing-page { 
+    display: none;
+   }
+  .screen.objectifs-2-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1439px) {
+  .screen.landingpage { 
+    display: none;
+   }
+  .screen.objectifs-2-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.landingpage { 
+    display: none;
+   }
+  .screen.landing-page { 
+    display: none;
+   }
+}
